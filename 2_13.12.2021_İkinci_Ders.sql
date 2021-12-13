@@ -1,5 +1,5 @@
-	/*===================================================
-								 LOGICAL OPERATORS (AND,OR,NOT)
+/*===================================================
+LOGICAL OPERATORS (AND,OR,NOT)
 ====================================================*/
 	
 	/* invoices tablosunda ülkesi (BillingCountry) USA olmayan kayıtları total değerine
